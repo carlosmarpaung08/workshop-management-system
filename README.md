@@ -99,5 +99,6 @@ This project was developed as a real-world workshop management system for Batik 
 
 Carlos Michael Marpaung
 Software Engineer
-LinkedIn: [https://www.linkedin.com/in/carlos-michael-marpaung-836392267](https://www.linkedin.com/in/carlos-michael-marpaung-836392267)
-GitHub: [https://github.com/carlosmarpaung08](https://github.com/carlosmarpaung08)
+
+* LinkedIn: [https://www.linkedin.com/in/carlos-michael-marpaung-836392267](https://www.linkedin.com/in/carlos-michael-marpaung-836392267)
+* GitHub: [https://github.com/carlosmarpaung08](https://github.com/carlosmarpaung08)
